@@ -1,0 +1,39 @@
+.title {
+    font-family: Helvetica, Georgia, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.main {
+    background-color: #35cd76;
+}
+
+.cake {
+    background-color: #de5565;
+}
+
+.eggplant {
+    background-color:#c76c13;
+}
+
+.ramen {
+    background-color: #361b14;
+}
+
+.image-result {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-family: cursive;
+    color: white;
+    font-size: 35px;
+}
